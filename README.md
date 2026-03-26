@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- EPIC HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d0d0d,60:001100,100:00ff41&height=300&section=header&text=NMD%20AXIS&fontSize=90&fontColor=00ff41&fontAlignY=45&desc=◈%20Elite%20Bot%20Developer%20◈%20Digital%20Architect%20◈%20Code%20Alchemist%20◈&descSize=18&descAlignY=68&animation=fadeIn&stroke=00ff41&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d0d0d,60:001100,100:00ff41&height=300&section=header&text=NIMA%20AXIS&fontSize=90&fontColor=00ff41&fontAlignY=45&desc=◈%20Elite%20Bot%20Developer%20◈%20Digital%20Architect%20◈%20Code%20Alchemist%20◈&descSize=18&descAlignY=68&animation=fadeIn&stroke=00ff41&strokeWidth=2" width="100%"/>
 
 </div>
 
 <div align="center">
 
 <!-- ANIMATED TYPING -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+Hello+World...+I%27m+NMD+AXIS+%F0%9F%91%BE;%3E+WhatsApp+Bot+Developer+%F0%9F%A4%96;%3E+JavaScript+%2F+Node.js+Specialist+%E2%9A%A1;%3E+Digital+Architect+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;%3E+Building+the+Future%2C+One+Bot+at+a+Time+%F0%9F%94%A5;%3E+git+commit+-m+%22Life+is+a+loop%22+%F0%9F%92%BE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+Hello+World...+I%27m+NIMESHA+MADHUSHAN+%F0%9F%91%BE;%3E+WhatsApp+Bot+Developer+%F0%9F%A4%96;%3E+JavaScript+%2F+Node.js+Specialist+%E2%9A%A1;%3E+Digital+Architect+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;%3E+Building+the+Future%2C+One+Bot+at+a+Time+%F0%9F%94%A5;%3E+git+commit+-m+%22Life+is+a+loop%22+%F0%9F%92%BE)](https://git.io/typing-svg)
 
 </div>
 
