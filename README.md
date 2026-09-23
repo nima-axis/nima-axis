@@ -353,3 +353,22 @@ round-trip: LEGENDARY / UNSTOPPABLE
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,30:006600,60:001a00,100:000000&height=150&section=footer&text=NMD%20AXIS&fontSize=30&fontColor=00ff41&fontAlignY=65" width="100%"/>
 
 </div>
+
+
+
+# Hi there, I'm Nimesha Madhushan Dassanayake 👋
+
+🔥 **Software Developer & Automation Specialist from Rajanganaya, Sri Lanka**
+
+I am an advanced developer specializing in Node.js, WhatsApp automation systems, custom core packages, and system development. 
+
+### 🚀 Major Projects & Creations:
+* **@astral-core/aura-wb:** A custom core NPM package built for advanced WhatsApp bot management, multi-environment automation, and process recovery.
+* **SL Aura & UNITY-MD Bots:** High-performance, interconnected WhatsApp bot ecosystems designed to run seamlessly on a single server. ([Pair Site](https://vercel-pair-sites.vercel.app/))
+* **Adguard Fake DNS Tool:** A specialized utility system developed specifically for mobile phone shop owners and technicians to manage network configurations securely.
+* **Ethical Hacking & Security:** Actively involved in ethical hacking, penetration testing, and security system analysis.
+* **Upcoming Project:** Currently developing an advanced PC-based AI assistant inspired by Iron Man's JARVIS/FRIDAY system.
+
+### 📱 Connect With Me:
+* **WhatsApp & Telegram:** +94726800969
+* **Location:** Rajanganaya, Sri Lanka
